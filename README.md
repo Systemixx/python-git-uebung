@@ -1,0 +1,1 @@
+Dieses Projekt führt ein Python Script aus, das nach deinen Namen fragt.
